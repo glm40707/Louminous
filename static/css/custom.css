@@ -1,0 +1,123 @@
+/* fonts */
+
+/* font-family: 'Imperial Script', cursive;
+font-family: 'Playfair Display', serif;
+font-family: 'Poppins', sans-serif; */
+
+body {
+  background: #000000;
+  color: #ffffff;
+  font-family: 'Poppins', sans-serif;
+  font-size: 0.9em;
+}
+
+.play-hed{
+  font-family: 'Playfair Display', serif;
+  font-size: 2.6em;
+  color: #fd8c3b
+}
+
+.play-sub{
+  font-family: 'Playfair Display', serif;
+  font-size: 1.8em;
+  color: #fd8c3b
+}
+
+.play-mid{
+  font-family: 'Playfair Display', serif;
+  font-size: 2em;
+  color: #fd8c3b
+}
+
+.script-hed{
+  font-family: 'Imperial Script', cursive;
+  color: #fd8c3b;
+  font-size: 2.6em;
+  margin: 0;
+}
+
+
+
+.btn-style {
+  background: #fd8c3b;
+  padding: 10px 16px;
+  text-decoration: none;
+  color: ghostwhite;
+  border-radius: 4.6px;
+  
+  
+}
+
+.space-me{
+  margin-bottom: 3em;
+}
+
+#sectionTwo {
+  /* display: flex; */
+  /* width: 90%; */
+  margin-top: 2em;
+  /* padding: 2rem;
+	margin: 4rem; */
+	justify-content: center;
+}
+
+#eat-tag {
+  /* margin-left: 10%; */
+  margin-top: 6rem;
+}
+
+#love-bake {
+  margin-top: 5%;
+}
+
+#what-serve {
+  margin-top: 6%;
+  margin-left: 0px;
+}
+
+#cards{
+	margin: 0.6em;
+  background-color: #1F1D21;
+}
+
+#cards-row{
+	display: flex;
+	justify-content: center;
+}
+
+#card-spacer{
+	padding-top: 10px;
+}
+
+.hero-badges{
+	/* border: 1px solid green; */
+	padding: 2em;
+	background: #222;
+	border-radius: 4.6px;
+	margin: 2em;
+}
+
+.grey-box-1, .grey-box-2, .grey-box-3{
+  background: #241000;
+  /* background: #1F1D21; */
+  margin: 0.1em;
+  padding: 2.2em;
+  border-radius: 00.6em;
+}
+
+.quoteblock{
+  background: #1F1D21;
+  padding: 3em;
+}
+
+.space-up-down{
+  margin-top: 3.6em;
+  /* margin-bottom: 2em; */
+}
+
+.card-text{
+  padding-bottom: 2em;
+}
+
+
+
